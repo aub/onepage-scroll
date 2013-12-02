@@ -1,0 +1,16 @@
+{
+  "name": "onepage-scroll",
+  "version": "1.3",
+  "main": [
+    "jquery.onepage-scroll.js", 
+    "jquery.onepage-scroll.min.js", 
+    "onepage-scroll.css"
+  ],
+  "ignore": [
+    "Demo",
+    "README.md"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.7.0"
+  }
+}
